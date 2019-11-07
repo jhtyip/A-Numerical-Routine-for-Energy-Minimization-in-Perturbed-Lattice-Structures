@@ -1,0 +1,27 @@
+Crystal structure: Diamond
+Lattice constant: 5.43 Angstrom
+Periodicity (x * y * z): 1 * 1 * 1
+Total number of atoms: 8
+
+List of atoms:
+ID        Element   x-coor    y-coor    z-coor    
+1         Si        0.0       0.0       0.0       
+2         Si        0.0       2.715     2.715     
+3         Si        2.715     0.0       2.715     
+4         Si        2.715     2.715     0.0       
+5         Si        1.3575    1.3575    1.3575    
+6         Si        4.0725    1.3575    4.0725    
+7         Si        1.3575    4.0725    4.0725    
+8         Si        4.0725    4.0725    1.3575    
+
+Neighbor list (distance cutoff = 2.714 Angstrom):
+Atom ID		IDs of the atom's neighbors (separation distance in parentheses, from nearest to farthest)
+ 		N1             N2             N3             N4             
+1		6(2.35)        7(2.35)        8(2.35)        5(2.35)        
+2		6(2.35)        8(2.35)        5(2.35)        7(2.35)        
+3		7(2.35)        8(2.35)        5(2.35)        6(2.35)        
+4		6(2.35)        7(2.35)        5(2.35)        8(2.35)        
+5		1(2.35)        2(2.35)        3(2.35)        4(2.35)        
+6		1(2.35)        2(2.35)        4(2.35)        3(2.35)        
+7		1(2.35)        3(2.35)        4(2.35)        2(2.35)        
+8		1(2.35)        2(2.35)        3(2.35)        4(2.35)        
