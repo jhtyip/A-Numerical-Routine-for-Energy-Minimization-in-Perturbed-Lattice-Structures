@@ -1,4 +1,4 @@
-# Numerical Routine for Energy Minimization in Arbitrary Lattice Structures
+# A Numerical Routine for Energy Minimization in Perturbed Lattice Structures
 This is an individual project for a computational physics course I took at The Chinese University of Hong Kong (CUHK).
 
 I developed a Python program to numerically minimize the total energy of a randomly perturbed lattice with the steepest descent (SD) or the conjugate gradient (CG) method. The user can set the lattice structure arbitrarily and choose to use either the Lennard-Jones (LJ) or the Tersoff (Ter) potential.
